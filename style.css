@@ -52,17 +52,14 @@ h2{
     background-position: right;
    
 }
-.experienc{
-    text-align: center;
-    font-size: 50px;
-    font-weight: 1000;
-}
+
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
     height: 80%;
     width: 40%;
 }
+
 .Experience-area{
     height: 500px;
     margin-bottom: 150px;
